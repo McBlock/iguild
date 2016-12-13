@@ -2,3 +2,9 @@ command /iguild:
 	description: Shows the official website
 	trigger:
 		message ""&f[I&cGuild&f] &fI&cGuild &fCreated by Mr Brickly"
+command /iguild pixelclan:
+	description: Shows the official website
+	trigger:
+		message ""&f[I&cGuild&f] &fGuild based on conquring all the land.
+		They also like allying with other guilds and helping them with the resources."
+
